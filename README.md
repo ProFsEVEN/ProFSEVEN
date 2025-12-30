@@ -1,4 +1,4 @@
-### Merhaba, Ben Pala! 👋 | Hi there, I'm Pala!
+### Merhaba, Ben Abdullah Alıcı! 👋 | Hi there, I'm Abdullah Alıcı!
 
 **Full Stack Developer (SAP Ecosystem & Node.js)**
 
