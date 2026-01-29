@@ -1,59 +1,71 @@
-### Merhaba, Ben Abdullah Alıcı! 👋 | Hi there, I'm Abdullah Alıcı!
+# Merhaba, Ben Abdullah Alıcı! 👋 | Hi there, I'm Abdullah Alıcı!
 
-**Full Stack Developer (SAP Ecosystem & Node.js)**
-
-(TR) 🇹🇷
-SAP Ekosistemi (CAP & Fiori) ve Node.js üzerine odaklanmış tutkulu bir Full Stack Geliştiriciyim. Ölçeklenebilir kurumsal uygulamalar geliştirmeyi ve karmaşık backend problemlerini çözmeyi seviyorum.
-
-* 🔭 Şu an **Kurumsal Filo Yönetim Sistemleri** üzerinde çalışıyorum.
-* 🌱 **İleri Seviye SAP CAP, OData V4 ve Bulut Mimarisi** öğreniyorum.
-* 💼 **SAP Full Stack Developer / Node.js Developer** pozisyonlarına açığım.
-
-(EN) 🇬🇧
-I'm a passionate Full Stack Developer focusing on SAP Ecosystem (CAP & Fiori) and Node.js. I love building scalable enterprise applications and solving complex backend problems.
-
-* 🔭 I’m currently working on **Enterprise Fleet Management Systems**.
-* 🌱 I’m currently learning **Advanced SAP CAP, OData V4, and Cloud Architecture**.
-* 💼 Open to work: **SAP Full Stack Developer / Node.js Developer roles**.
+### 🚀 Full Stack & Cross-Platform Developer
+**(SAP Ecosystem, .NET & Rust)**
 
 ---
 
-### 🛠️ Teknolojiler / Tech Stack
+(TR) 🇹🇷
+Yazılım geliştirme tutkusuyla SAP Ekosistemi (CAP & Fiori), .NET teknolojileri ve Rust ile ölçeklenebilir sistemler tasarlıyorum. Hem kurumsal iş uygulamaları hem de performans odaklı cross-platform çözümler üretmek üzerine çalışıyorum.
 
-![SAP](https://img.shields.io/badge/SAP-008FD3?style=for-the-badge&logo=sap&logoColor=white)
+* 🔭 Şu anda **Multi-platform Emlak Mimarileri** ve **Oyun Geliştirme** üzerine çalışıyorum.
+* 🌱 **Rust** ile yüksek performanslı API'lar ve **.NET MAUI** ile mobil çözümler geliştiriyorum.
+* 💼 **Full Stack Developer** pozisyonlarına ve proje işbirliklerine açığım.
+
+(EN) 🇬🇧
+I design scalable systems driven by a passion for software development, utilizing the SAP Ecosystem (CAP & Fiori), .NET technologies, and Rust. I focus on building both enterprise business applications and performance-oriented cross-platform solutions.
+
+* 🔭 I’m currently working on **Multi-platform Real Estate Architectures** and **Game Development**.
+* 🌱 Learning and building high-performance APIs with **Rust** and mobile solutions with **.NET MAUI**.
+* 💼 Open to work: **Full Stack Developer** roles and project collaborations.
+
+---
+
+### 🛠 Teknolojiler / Tech Stack
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-### 🚀 Öne Çıkan Proje / Featured Project
-**Motosiklet Kiralama Sistemi (Motorcycle Rental System)**
+### 🚀 Öne Çıkan Projeler / Featured Projects
 
-(TR) SAP Fiori Elements arayüzüne sahip Full-Stack bir CAP projesi.
-* **Backend:** Node.js & Express tabanlı OData V4 Servisi.
-* **Veritabanı:** Kalıcı depolama özellikli SQLite.
-* **Frontend:** SAP Fiori Elements (List Report & Object Page) ve Annotations.
+#### 1. Real Estate Architecture (Emlak Projesi) 🏠
+**(TR)** .NET MAUI, ASP.NET MVC ve Rust kullanılarak geliştirilmiş çok katmanlı, modern bir emlak yönetim sistemi.
+* **Mobile:** .NET MAUI ile cross-platform (Android/iOS) istemci.
+* **Web:** ASP.NET MVC tabanlı yönetim paneli.
+* **Backend:** Yüksek performans ve güvenli veri akışı için **Rust API**.
 
-(EN) A full-stack CAP application with Fiori Elements UI.
-* **Backend:** Node.js & Express based OData V4 Service.
-* **Database:** SQLite with persistent storage.
-* **Frontend:** SAP Fiori Elements (List Report & Object Page) with Annotations.
+**(EN)** A multi-layered, modern real estate management system built with .NET MAUI, ASP.NET MVC, and Rust.
+* **Mobile:** Cross-platform (Android/iOS) client via .NET MAUI.
+* **Web:** ASP.NET MVC based management dashboard.
+* **Backend:** **Rust API** for high performance and secure data flow.
 
-[👉 Kodları İncele / Check out the Code](https://github.com/ProFSEVEN/motorcycle-rental)
+#### 2. Gravity Switcher 🎮
+**(TR)** Yerçekimi mekaniklerine dayalı, refleks ve strateji odaklı bir web tabanlı oyun projesi.
+* Kullanıcı etkileşimi ve dinamik fizik motoru kullanımı.
+* Modern web teknolojileri ile geliştirildi.
 
-<!--
-**ProFsEVEN/ProFSEVEN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**(EN)** A gravity-mechanic based, reflex and strategy oriented web game project.
+* Features user interaction and dynamic physics engine implementation.
+* Developed with modern web technologies.
 
-Here are some ideas to get you started:
+#### 3. Motorcycle Showcase Platform 🏍️
+**(TR)** Motorsiklet tutkunları için geliştirilmiş, detaylı inceleme ve listeleme özelliklerine sahip web platformu.
+* Optimize edilmiş veri yapısı ve kullanıcı dostu arayüz.
+* Kataloglama ve detaylı ürün gösterimi.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**(EN)** A web platform designed for motorcycle enthusiasts with detailed review and listing features.
+* Optimized data structure and user-friendly interface.
+* Cataloging and detailed product showcasing.
+
+---
+
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](linkedin.com/in/abdullahalici)
+[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:abdullahalici118@gmail.com)
